@@ -1,19 +1,20 @@
 
+# Hi, I'm Noah Soskha 👋
+
 ## About Me
   Recent Software Engineering graduate from ORT Braude College  
-  Specialized in anomaly detection using transformer architectures  
-  Passionate about Python, machine learning, and backend development  
-  Currently seeking junior developer/Python developer opportunities  
+  Experienced in Python development, backend systems, and machine learning applications  
+  Enjoy building practical tools and solving complex problems  
+  Currently seeking software developer opportunities  
 
 ## Featured Projects
-### [Citation Anomaly Detection](https://github.com/kookmao/Detection-of-Anomalous-Cited-Papers)
-- Implemented transformer-based system to detect fraudulent academic citations
-- Technologies: Python, PyTorch, NetworkX
+### [Citation Network Analysis](https://github.com/kookmao/Detection-of-Anomalous-Cited-Papers)
+- Adapted transformer architecture for analyzing academic citation patterns
+- Processed and visualized large-scale graph data (100k+ papers)
 
 ### [DVR Timestamp Tool](https://github.com/kookmao/DVR_timestamp)
 - Desktop application with GUI for automated video timestamp extraction
-- Integrated Tesseract OCR for text recognition
-- Technologies: Python, PyQt5, FFmpeg, Tesseract
+- Integrated OCR for text recognition and FFmpeg for video processing
 
 ## Technical Skills
 **Languages:** Python, Java, SQL, C  
@@ -22,8 +23,8 @@
 **Concepts:** REST APIs, Anomaly Detection, Graph Analysis  
 
 ## Contact
-  noahsoskha2@gmail.com  
-  [LinkedIn](https://www.linkedin.com/in/noah-soskha/)  
+📧 noahsoskha2@gmail.com  
+💼 [LinkedIn](https://www.linkedin.com/in/noah-soskha/)  
 📍 Northern Israel
 
 ---
